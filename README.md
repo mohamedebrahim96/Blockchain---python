@@ -3,5 +3,6 @@ Simple BlockChain DEMO in Python I demonstrated the concept of a blockchain that
 
 ## Prerequisites
 - Python 3.0+
-```
 
+![image ](./test.JPG)   
+![image ](./test2.JPG)
